@@ -3,8 +3,8 @@
 {
 tag~Announcement $
 title~Zonal Combine Prayer $
-date~2021.01.30 $
-time~18:00:00 $
+date~2021.01.30&yyyy.mm.dd $
+time~18:00:00&hh:mm:ss $
 venue~Bethel Anglican Church $
 info~This is to remind us of our zonal general meeting, please Branch and unit leaders should come with their annual and financial reports
 }
@@ -12,8 +12,8 @@ info~This is to remind us of our zonal general meeting, please Branch and unit l
 {
 tag~News $
 title~Zonal Combine Prayer $
-date~2021.01.30 $
-time~18:00:00 $
+date~2021.01.30&yyyy.mm.dd $
+time~18:00:00&hh:mm:ss $
 venue~Bethel Anglican Church $
 info~This is to remind us of our zonal general meeting, please Branch and unit leaders should come with their annual and financial reports
 }
