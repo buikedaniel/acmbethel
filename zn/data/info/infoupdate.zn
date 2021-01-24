@@ -1,7 +1,5 @@
 2021.01.24,10:30:00 yyyy.MM.dd,hh:mm:ss
 
-#Please Note the following tags are supported: News, Annoucement,
-
 {
 tag~News and Records $
 title~House to House Evangelism $
@@ -21,7 +19,7 @@ info~Just to remind us of our Zonal combine prayer which comes up on the last Tu
 }
 
 {
-tag~News and Records $
+tag~News $
 title~Zonal Combine Prayer $
 date~ 2021.01.30 & yyyy.MM.dd $
 time~18:00:00&hh:mm:ss $
