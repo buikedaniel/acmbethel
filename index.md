@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-us">
 
-You can use the [editor on GitHub](https://github.com/agradiance/acmbethel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <title> HOME | ANGLICAN CHILDREN MINISTRY </title>
+    <link
+        rel="stylesheet" 
+        type= "text/css"
+        href="css/main.css" />
+    
+     <link
+        rel="stylesheet" 
+        type= "text/css"
+        href="css/home.css" />
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
 
-### Markdown
+<body>
+    <div class="Allheading">
+        <div class= "logoH">
+            <img id="logo1" src="picture/acm.jpg" />
+            <img id="logo2" src="picture/acm.jpg" />
+            <p id="name1" class="name"> ANGLICAN CHILDREN MINISTRY (ACM) </p> 
+            <p class="name"> Catch Them Young For Christ </p>           
+            <p class="name"> BETHEL ZONE </p>
+        </div>
+        <h2 class="passage"> Train up a Child in the way he should go, and when he is old he will not depart from it.
+        <em id="text1"> Proverb 22:6 </em>
+         </h2>
+        <h3>  </h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    </div>
 
-```markdown
-Syntax highlighted code block
+    <div class="spacing"> <p>. </p> </div>
 
-# Header 1
-## Header 2
-### Header 3
+    <div >
+        <ul class=>
+    
+       <li> <a href="acmbethelzone.html" > Home </a> </li>
+       <li> <a href="website/program.html" > Program </a> </li>
+       <li> <a href="website/service.html" > Service </a> </li>
+       <li> <a href="website/gallary.html" > Gallary </a> </li>
+       <li> <a href="website/contact.html" > Contact </a> </li>
+       <li> <a href="website/about.html" > About </a> </li>
+    
+        </ul>
+    </div>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<div id="column">
 
-**Bold** and _Italic_ and `Code` text
+<div id="col1">
+    THE CALLING
+Service begins by calling – a call to serve – however, the calling of God is not of one’s
+perfection! For no one takes this honour unto himself, but he must be called by God Heb.5:4. Every
+calling is to set one apart from the crowd, and our primary separation is from the world and place of
+comfort. Hence, God’s calling comes with responsibilities and demands: some of our personalities,
+priorities, ambitions, attitudes and characters might be crucified in order to stay committed to His calling
+– purity begins by commitment! However, our responses to these demands will determine what God
+will achieve through us. Other uniqueness [among us] depends on the peculiarity of God’s dealings
+with us.
+</div>
 
-[Link](url) and ![Image](src)
-```
+<div id="col2"> 
+    THE MAKING
+It is not enough to be called, there is a place of making – unless you are not made, you cannot
+become! How far you will go in life is determine by two things: what you are made of, and what you
+are made for. The former could place limitations and constraints to the latter. Hence, one must be
+watchful and careful on what constitute and make up his life. The word of God is the fundamental and
+essential ingredient for God’s making: it can form, transform and reform lives purposefully. Although,
+we can learn from experience, literature, philosophy and others, God's making process cannot be
+substituted and it does not blend with our comforts. Sometimes it could go extreme with discipline,
+reprove and chastening and unless we gain the heart of humility and total submission we cannot endure
+His furnace (Heb. 12:5-11; James 4: 6-10; 1Pet. 5:5-6; Rev. 3:19). I'm not so sure if every man will
+survive God’s chamber… but I'm certain that no vessel comes out of his furnace unrefined and
+undefined. Moreover, many would choose to skip this phase and run into service, some who tasted it
+would either quit and walk away or escape serving prematurely – of course with unfulfilled life. But
+those who became great and mighty warriors in God's hand learnt to endure the heat from His crucible.
+Just like the SON (Standard Organization of Nigeria) these vessels have the hallmark of God called
+SOG –Spirit of God – as an evidence and prove that their lives have been worked upon, hence they
+can offer service from a pure heart that is acceptable to God.
+Be made!
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div id="col3">
+    THE SERVICE.
+Service is a form of worship unto God; and this must be done in Spirit and in Truth, for God is
+Spirit (Jn. 4:24). However, consistent worship is the one devoid of circumstances, influences,
+incentives, selfish ambition and vain glory. It is a product from a pure conscience and could only be
+achieved by being likeminded, having the same love, being one in Spirit and purpose (Phi. 2:1-4). So,
+here is a question to your heart, those things you are doing for God, are they to build your
+portfolios? It is not the amount of works that you did, but the ones that are desirable and pleasant to
+God.
+</div>
 
-### Jekyll Themes
+</div>  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agradiance/acmbethel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</body>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+</html>
