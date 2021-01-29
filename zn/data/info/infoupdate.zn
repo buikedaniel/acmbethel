@@ -1,6 +1,10 @@
 2021.01.24,10:30:00 yyyy.MM.dd,hh:mm:ss
 
+
+
+
 {
+type~News $
 tag~News $
 title~House to House Evangelism $
 date~ 2021.01.26 & yyyy.MM.dd $
@@ -19,6 +23,7 @@ detail~Just to remind us of our Zonal combine prayer which comes up on the last 
 }
 
 {
+type~News $
 tag~News $
 title~Zonal Combine Prayer $
 date~ 2021.01.30 & yyyy.MM.dd $
@@ -28,6 +33,7 @@ detail~This is to remind us of our zonal general meeting, please Branch and unit
 }
 
 {
+type~News $
 tag~News and Records $
 title~Zonal Combine Prayer $
 date~ 2021.01.30 & yyyy.MM.dd $
@@ -37,6 +43,7 @@ detail~This is to remind us of our zonal general meeting, please Branch and unit
 }
 
 {
+type~News $
 tag~News and Records $
 title~Zonal Combine Prayer $
 date~ current $
@@ -45,6 +52,7 @@ detail~This is to remind us of our zonal general meeting, please Branch and unit
 }
 
 {
+type~News $
 tag~News and Records $
 title~ACM Bethel Zone Anniversary $
 detail~To the glory of God, ACM Bethel Zone will be having their anniversary this year 2021, it's coming up quickly, please lets plan, prepare and make it a promising one indeed.
