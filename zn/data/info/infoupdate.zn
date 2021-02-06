@@ -1,6 +1,14 @@
 2021.01.24,10:30:00 yyyy.MM.dd,hh:mm:ss
 
-
+{
+type~Announcement $
+tag~Announcement $
+title~ACM ZONAL SUNDAY SCHOOL $
+date~ Sunday $
+time~14:00:00&hh:mm:ss $
+venue~Bethel Anglican Church $
+detail~Our Sunday School will hold this sunday, please come expectant and you will surely be blessed
+}
 
 
 {
