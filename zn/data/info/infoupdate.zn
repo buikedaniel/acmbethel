@@ -6,11 +6,12 @@
 {
 type~Announcement $
 tag~Announcement $
-title~ACM Drama Practice $
-date~ 2021.01.30 & yyyy.MM.dd $
+title~ACM DIOCESAN LEADERSHIP SET-APART $
+date~ 2021.02.18 & yyyy.MM.dd $
 time~16:00:00&hh:mm:ss $
-venue~Bethel Church $
-detail~This is to remind both old and new members of ACM Drama Group that their will be a practice coming up Saturday 30th of December, 2021 at Bethel Anglican Church by 4pm, Please make yourself available for God's use. God bless you.
+venue~St Peter's Ohita $
+detail~This is to remind all the ACM Teachers, Workers and Leaders that the annual Diocesan Leadership Set-apart is coming up from Thursday, 18th - Sunday 21st February 2021; at St Peter's Anglican Church Ohita.
+Make it a blessing and encourage others to attend. God Bless You.
 }
 
 {
@@ -36,19 +37,19 @@ title~Covenant Week $
 date~ 2021.01.25 & yyyy.MM.dd $
 time~18:00:00&hh:mm:ss $
 venue~Bethel Anglican Church $
-detail~Covenant Week 2021, has just started please come with your family....
+detail~Covenant Week 2021, Theme: "I Shall Pursue, Overtake and Recover All..."(1 Samuel 30:8) has just started please come with your family....
 }
-
 
 {
 type~Church $
 tag~Church Program $
-title~Covenant Week $
-date~ 2021.01.30 & yyyy.MM.dd $
-time~18:00:00&hh:mm:ss $
+title~BACK TO BETHEL $
+date~ 2021.02.01 & yyyy.MM.dd $
+time~17:30:00&hh:mm:ss $
 venue~Bethel Anglican Church $
-detail~Covenant Week 2021, has just started please come with your family....
+detail~Bethel Anglican Church, invites you to a very transforming program, taged: Back to Bethel, please come with your family....
 }
+
 
 {
 type~information $
@@ -61,10 +62,10 @@ detail~Beloved coming late to Church program is not a good one, please determine
 type~News $
 tag~News Update $
 title~House to House Evangelism $
-date~ 2021.01.26 & yyyy.MM.dd $
+date~ current $
 time~18:00:00&hh:mm:ss $
 venue~Branch Family House $
-detail~To the glory of God, the following branches has commenced their annual house to house evangelism: Glorious(47Acha) Branch on 18th of January 2021; Trinity Branch on 18th of January 2021; Emmanuel Branch on 13th of January 2021; Our Saviour Branch on 13th of January 2021; Please endeavour to participate. God bless you.
+detail~To the glory of God, our Branch House to House Evangelism is Still on; the following branches has commenced their annual house to house evangelism: Glorious(47Acha) Branch on 18th of January 2021; Trinity Branch on 18th of January 2021; Emmanuel Branch on 13th of January 2021; Our Saviour Branch on 13th of January 2021; Please endeavour to participate. God bless you.
 }
 
 {
