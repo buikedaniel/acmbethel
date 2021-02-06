@@ -10,6 +10,16 @@ venue~Bethel Anglican Church $
 detail~Our Sunday School will hold this sunday, please come expectant and you will surely be blessed
 }
 
+{
+type~Announcement $
+tag~AYF BETHEL $
+title~AYF PROGRAMME $
+date~ Monday $
+time~18:00:00&hh:mm:ss $
+venue~Bethel Anglican Church $
+detail~Beloved, Anglican Youth Fellowship is having their divine fellowship every monday, please be part of us and fellowship with your brethren. God bless you as you join us this Monday.
+}
+
 
 {
 type~Announcement $
