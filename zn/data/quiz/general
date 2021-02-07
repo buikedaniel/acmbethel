@@ -1,11 +1,19 @@
 [
 copyright~ 2021.02.06,10:30:00 & yyyy.MM.dd,hh:mm:ss $
 prize~ TVROLVJlZygjMTAwKTogNTU3Ny0xNzc1LTYyMjctOTYyMTY= $
-indicate_all_correct_answers ~ false $
-enable_auto_mode ~ false $
+indicate_all_correct_answers ~ true $
+enable_auto_mode ~ true $
 quiz_timing ~ 4 $
 quiz_point ~ 10
 ]
 
 { <Name three of Jesus' disciples whose names begin with 'J'> ~ [Judah, James and John # Justus, John and Judas # @James, John and Judas # Joab, James and Justin] }
 { <What did God create on the first day> ~ [Waters #  Firmament # @Light # Man] }
+{ <Nation Israel got divided under whose reign> ~ [Saul #  David # Solomon # Jeroboam # @Rehoboam] }
+{ <Who built the ark> ~ [Moses # @Noah # Joseph # Enoch] }
+{ <Where did Jesus grow up> ~ [@Nazareth #  Egypt #  Jerusalem # Jericho] }
+{ <Who lived in Ur and moved to a country he did not know> ~ [Terah # Jacob # John the Baptist # @Abraham] }
+{ <What was the name of the blind beggar at the gate of Jericho> ~ [@Bartimaeus #  BarBarjona # Barnabas # Barjesus] }
+{ <What was Jacob's brother called> ~ [Laban # @Esau # Isaac # Esaw] }
+{ <How many years of famine did Joseph prophesied to the Pharaoh> ~ [10 # 14 # 3 # @7] }
+{ <What was Jacob's youngest son called> ~ [Joseph # @Benjamin # Ephraim # Manasseh] }
