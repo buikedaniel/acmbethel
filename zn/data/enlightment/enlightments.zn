@@ -1,6 +1,14 @@
 2021.01.24,10:30:00 yyyy.MM.dd,hh:mm:ss
 
 
+type: can take any of these values:  Article, Education, Empowerment, Exposition, MissionaryStory, Research, Talk, Testimony,  General
+tag: it can take any value that best represent its type.... I can assign it the value of my type
+title: the title of the information; Please make it conscise
+author: the name of the author or writer
+status: the position or the career of the author; it can be student, teacher, professor...
+profilesource: the url of the author's profile picture
+content: the content of the 
+
 {
 type~Article $
 tag~ Article $
@@ -19,8 +27,8 @@ Sometimes what we thought we needed the most is not what's best for us. Contentm
 
 
 {
-type~Article $
-tag~Article $
+type~Empowerment $
+tag~Empowerment $
 title~Do Better! $
 author~ Osarennoma Ogbeide $
 status~Student $
@@ -74,8 +82,8 @@ THE POWER OF RIGHT RELATIONSHIP
 }
 
 {
-type~Article $
-tag~Article $
+type~Empowerment $
+tag~Empowerment $
 title~LIVING IN GOD'S PLAN FOR YOUR LIFE $
 author~ Chinemerem Prosper Okonkwo $
 status~Unit Leader $
@@ -173,8 +181,8 @@ Most importantly, don't be afraid to fail. Nobody likes failure quite alright bu
 }
 
 {
-type~Article $
-tag~Article $
+type~Empowerment $
+tag~Empowerment $
 title~ Powerful Beyond Measure! $
 author~ Chibuike Onwusoanya $
 status~Student $
