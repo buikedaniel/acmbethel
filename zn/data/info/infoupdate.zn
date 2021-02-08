@@ -1,5 +1,24 @@
 2021.01.24,10:30:00 yyyy.MM.dd,hh:mm:ss
 
+
+type: the folloling type is supported: Announcement; Birthday; Church; Information; NewsUpdate; UpcomingEvent; General(this is the default)
+tag: the tag of the program; can be initialize with the same value of the type, or any value the best describe the type
+title: the title of the program (please make it conscise)
+date: (it can be empty) the date of the program it can be in this following template: "2021.02.18 & yyyy.MM.dd" (a date and its format); "current"(this will always take up the current date all days); and the day eg. "Monday", "mon", "Sun" (and will be updated to the immidiately coming day)
+time: (it can be empty) the time of the program it can be in this following template: "14:00:00&hh:mm:ss" (a time and its format); "current"(this will always take up the current time when the program is runed);
+venue: the venue of the program (it can be empty)
+detail: you can provide enough detail information about the update and information here
+
+
+
+{
+type~Upcoming Event $
+tag~ ACM ANNIVERSARY $
+title~ACM Bethel Zone Anniversary $
+detail~To the glory of God, ACM Bethel Zone will be having their anniversary this year 2021, it's coming up quickly, please lets plan, prepare and make it a promising one indeed.
+God bless you.
+}
+
 {
 type~Announcement $
 tag~Announcement $
@@ -20,6 +39,16 @@ venue~Bethel Anglican Church $
 detail~Beloved, Anglican Youth Fellowship is having their divine fellowship every monday, please be part of us and fellowship with your brethren. God bless you as you join us this Monday.
 }
 
+{
+type~Announcement $
+tag~ABF BETHEL $
+title~ABF PROGRAMME $
+date~ Wed $
+time~18:00:00&hh:mm:ss $
+venue~Bethel Anglican Church $
+detail~Beloved, Anglican BoYS Fellowship is having their divine fellowship every Wednesday, please be part of us and fellowship with your brethren. God bless you as you join us this Wednesday.
+}
+
 
 {
 type~Announcement $
@@ -29,23 +58,8 @@ date~ 2021.02.18 & yyyy.MM.dd $
 time~16:00:00&hh:mm:ss $
 venue~St Peter's Ohita $
 detail~This is to remind all the ACM Teachers, Workers and Leaders that the annual Diocesan Leadership Set-apart is coming up from Thursday, 18th - Sunday 21st February 2021; at St Peter's Anglican Church Ohita.
+Registeration is #500.
 Make it a blessing and encourage others to attend. God Bless You.
-}
-
-{
-type~Birthday $
-tag~Birthday celebration $
-title~Ezz Chukwubuikem $
-date~ current $
-detail~With Jesus Joy in our heart we want announce the birthday of our beloved ezinwannem, Ezz Chukwubuikem, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation
-}
-
-{
-type~Birthday $
-tag~Birthday celebration $
-title~Ezz Chiamake, Ezz Somto Obiaku $
-date~ current $
-detail~With Jesus Joy in our heart we want announce the birthday of our beloved ezinwannem, Ezz Chiamake, Ezz Somto Obiaku, let's do well to call them, pray for them for more of God's strength and wisdom to serve God's purpose in their generation
 }
 
 {
@@ -88,17 +102,28 @@ detail~To the glory of God, our Branch House to House Evangelism is Still on; th
 
 {
 type~News $
-tag~News and Records $
+tag~News and Update $
 title~Zonal Combine Prayer $
 date~ current $
 venue~Bethel Anglican Church $
-detail~This is to remind us of our zonal general meeting, please Branch and unit leaders should come with their annual and financial reports
+detail~This is to remind us of our zonal combine prayer coming up on every last Tuesday of the month, please branch and all acm leaders and teachers should take note. God bless you.
 }
 
 {
-type~Upcoming Event $
-tag~Anniversary $
-title~ACM Bethel Zone Anniversary $
-detail~To the glory of God, ACM Bethel Zone will be having their anniversary this year 2021, it's coming up quickly, please lets plan, prepare and make it a promising one indeed.
-God bless you.
+type~News $
+tag~News and Records $
+title~Unit Combine Prayer $
+date~ Tuesday $
+venue~(To be communicated) $
+detail~ This is to remind us of our zonal combine prayer coming up on Tuesdays of the month, please branch and all acm leaders and teachers should take note. God bless you.
 }
+
+
+
+
+	BIRTHDAYS
+{ type~Birthday $ tag~Birthday celebration $ title~Ezz Chukwubuikem Onwusoanya $ date~ 2021.12.02 & yyyy.MM.dd $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Chukwubuikem, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
+{ type~Birthday $ tag~Birthday celebration $ title~Ezz Nzube Ezemazor $ date~ 2021.12.23 & yyyy.MM.dd $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Nzube Ezemazor, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
+{ type~Birthday $ tag~Birthday celebration $ title~Ezz Chiamaka, Ezz Somto Obiaku $ 2021.01.25 & yyyy.MM.dd $ detail~With Jesus Joy in our heart we want announce the birthday of our beloved ezinwannem, Ezz Chiamake, Ezz Somto Obiaku, let's do well to call them, pray for them for more of God's strength and wisdom to serve God's purpose in their generation }
+
+
