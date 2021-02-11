@@ -24,7 +24,7 @@ type~Announcement $
 tag~Announcement $
 title~ACM ZONAL SUNDAY SCHOOL $
 date~ Sunday $
-time~14:00:00&hh:mm:ss $
+time~(h=14; m=30) $
 venue~Bethel Anglican Church $
 detail~Our Sunday School will hold this sunday, please come expectant and you will surely be blessed
 }
