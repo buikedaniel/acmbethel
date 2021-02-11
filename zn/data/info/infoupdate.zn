@@ -91,6 +91,14 @@ detail~Beloved coming late to Church program is not a good one, please determine
 }
 
 {
+type~information $
+tag~ACM Verse And Uniform $
+date~(d=Wed; m=12; y=2020) $
+title~Lateness to Church $
+detail~Jist to remind you that ACM Uniform is already availble, Please, see the Zonal Leader for more information and update. God Bless You.
+}
+
+{
 type~News $
 tag~News Update $
 title~House to House Evangelism $
@@ -111,18 +119,18 @@ detail~This is to remind us of our zonal combine prayer coming up on every last 
 
 {
 type~News $
-tag~News and Records $
+tag~News and Update $
 title~Unit Combine Prayer $
 date~ Tuesday $
 venue~(To be communicated) $
-detail~ This is to remind us of our zonal combine prayer coming up on Tuesdays of the month, please branch and all acm leaders and teachers should take note. God bless you.
+detail~ This is to remind us of our unit combine prayer coming up on Tuesdays of the month, please branch and all acm leaders and teachers should take note. God bless you.
 }
 
 
 
 
 	BIRTHDAYS
-{ type~Birthday $ tag~Birthday celebration $ title~Somebody's Birthday $ date~ (d=Thu; y=2021) $ detail~ Beloved, today could be somebody's birthday. Please feel free to send us your birthday, we want you to be celebrated; just send your month and the day of the month of your birthday: eg. 11th January. God bless you. }
+{ type~Birthday $ tag~Birthday celebration $ title~Somebody's Birthday $ date~ (m=7;y=2021) $ detail~ Beloved, today could be somebody's birthday. Please feel free to send us your birthday, we want you to be celebrated; just send your month and the day of the month of your birthday: eg. 11th January. God bless you. }
 { type~Birthday $ tag~Birthday celebration $ title~Ezz Chukwubuikem Onwusoanya $ date~ (d=2; m=12) $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Chukwubuikem, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
 { type~Birthday $ tag~Birthday celebration $ title~Ezz Nzube Ezemazor $ date~ (d=23; m=12) $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Nzube Ezemazor, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
 
