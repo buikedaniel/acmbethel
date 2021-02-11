@@ -3,7 +3,7 @@ copyright~ 2021.02.07,10:30:00 & yyyy.MM.dd,hh:mm:ss $
 prize~ TVROLVJlZygjMjAwKTogODc1Ni02ODg3LTIzMTgtMjc1NjU= $
 indicate_all_correct_answers ~ false $
 enable_auto_mode ~ true $
-quiz_timing ~ 4 $
+quiz_timing ~ 10 $
 quiz_point ~ 10
 ]
 
