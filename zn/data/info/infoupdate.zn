@@ -15,9 +15,21 @@ detail: you can provide enough detail information about the update and informati
 {
 type~Upcoming Event $
 tag~ ACM ANNIVERSARY $
-title~ACM Bethel Zone Anniversary $
+title~ACM BETHEL ZONE ANNIVERSARY$
 detail~To the glory of God, ACM Bethel Zone will be having their anniversary this year 2021, it's coming up quickly, please lets plan, prepare and make it a promising one indeed.
 God bless you.
+}
+
+{
+type~Announcement $
+tag~ANNOUNCEMENT $
+title~ACM DIOCESAN LEADERSHIP SET-APART $
+date~ 2021.02.18 & yyyy.MM.dd $
+time~16:00:00&hh:mm:ss $
+venue~St Peter's Ohita $
+detail~This is to remind all the ACM Teachers, Workers and Leaders that the annual Diocesan Leadership Set-apart is coming up from Thursday, 18th - Sunday 21st February 2021; at St Peter's Anglican Church Ohita.
+Registeration is #500.
+Make it a blessing and encourage others to attend. God Bless You.
 }
 
 {
@@ -42,6 +54,24 @@ detail~Beloved, Anglican Youth Fellowship is having their divine fellowship ever
 
 {
 type~Announcement $
+tag~AYF BETHEL $
+title~WHAT IS LOVE $
+date~ (d=15;m=2;y=2021) $
+time~(h=17; m=30) $
+venue~Bethel Anglican Church $
+detail~Beloved, Anglican Youth Fellowship is invites all their youths to the special program;
+
+Theme: What is Love;
+Date: Monday, 15th February, 2021;
+Time: 5:30pm;
+Venue: Bethel Anglican Church, Iyiowa Odekpe
+
+Please, invite and come with your friends; it's going to be great;
+God bless you.
+}
+
+{
+type~Announcement $
 tag~ABF BETHEL $
 title~ABF PROGRAMME $
 date~ Wed $
@@ -51,17 +81,6 @@ detail~Beloved, Anglican BoYS Fellowship is having their divine fellowship every
 }
 
 
-{
-type~Announcement $
-tag~Announcement $
-title~ACM DIOCESAN LEADERSHIP SET-APART $
-date~ 2021.02.18 & yyyy.MM.dd $
-time~16:00:00&hh:mm:ss $
-venue~St Peter's Ohita $
-detail~This is to remind all the ACM Teachers, Workers and Leaders that the annual Diocesan Leadership Set-apart is coming up from Thursday, 18th - Sunday 21st February 2021; at St Peter's Anglican Church Ohita.
-Registeration is #500.
-Make it a blessing and encourage others to attend. God Bless You.
-}
 
 {
 type~Church $
@@ -132,6 +151,7 @@ detail~ This is to remind us of our unit combine prayer coming up on Tuesdays of
 
 	BIRTHDAYS
 { type~Birthday $ tag~Birthday celebration $ title~Somebody's Birthday $ date~ (y=2021) $ detail~ Beloved, today could be somebody's birthday. Please feel free to send us your birthday, we want you to be celebrated; just send your month and the day of the month of your birthday: eg. 11th January. God bless you. }
+{ type~Birthday $ tag~Birthday celebration $ title~Ezz Chukwubuikem Onwusoanya $ date~ (d=16; m=12) $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Arinze Ihemjika, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
 { type~Birthday $ tag~Birthday celebration $ title~Ezz Chukwubuikem Onwusoanya $ date~ (d=2; m=12) $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Chukwubuikem, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
 { type~Birthday $ tag~Birthday celebration $ title~Ezz Nzube Ezemazor $ date~ (d=23; m=12) $ detail~With Jesus Joy in our heart we announce the birthday of our beloved ezinwannem, Ezz Nzube Ezemazor, let's do well to call him, pray for him for more strength and wisdom to serve God's purpose in his generation }
 
