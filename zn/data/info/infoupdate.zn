@@ -11,6 +11,21 @@ venue: the venue of the program (it can be empty)
 detail: you can provide enough detail information about the update and information here
 
 
+{
+type~information $
+tag~Please Always Update $
+date~(y=2021) $
+title~Get Updated About Events $
+detail~
+Beloved,
+Our News & Events are always updated
+Please always stay updated on our events and Church Programs
+
+Just click the tool button and update our News and Event Program;
+(Remeber to turn on your mobile data for internet conection while downloading the update)
+
+Thank you and always be blessed.
+}
 
 {
 type~Upcoming Event $
@@ -159,7 +174,7 @@ detail~Just to remind you that ACM Uniform is already availble, Please, see the 
 
 {
 type~News $
-tag~News Update $
+tag~House to House Evangelism $
 title~House to House Evangelism $
 date~ current $
 time~18:00:00&hh:mm:ss $
