@@ -15,7 +15,7 @@ detail: you can provide enough detail information about the update and informati
 type~information $
 tag~Please Always Update $
 date~(y=2021) $
-title~Get Updated About Events $
+title~Please CLICK to see Details $
 detail~
 Beloved,
 Our News & Events are always updated
@@ -33,18 +33,6 @@ tag~ ACM ANNIVERSARY $
 title~ACM BETHEL ZONE ANNIVERSARY$
 detail~To the glory of God, ACM Bethel Zone will be having their anniversary this year 2021, it's coming up quickly, please lets plan, prepare and make it a promising one indeed.
 God bless you.
-}
-
-{
-type~Announcement $
-tag~ANNOUNCEMENT $
-title~ACM DIOCESAN LEADERSHIP SET-APART $
-date~ 2021.02.18 & yyyy.MM.dd $
-time~16:00:00&hh:mm:ss $
-venue~St Peter's Ohita $
-detail~This is to remind all the ACM Teachers, Workers and Leaders that the annual Diocesan Leadership Set-apart is coming up from Thursday, 18th - Sunday 21st February 2021; at St Peter's Anglican Church Ohita.
-Registeration is #500.
-Make it a blessing and encourage others to attend. God Bless You.
 }
 
 {
@@ -73,6 +61,20 @@ Features:
 
 Please come expectant and you will surely be blessed in Jesus Name. Amen.
 }
+
+
+{
+type~Announcement $
+tag~ANNOUNCEMENT $
+title~ACM DIOCESAN LEADERSHIP SET-APART $
+date~ 2021.02.18 & yyyy.MM.dd $
+time~16:00:00&hh:mm:ss $
+venue~St Peter's Ohita $
+detail~This is to remind all the ACM Teachers, Workers and Leaders that the annual Diocesan Leadership Set-apart is coming up from Thursday, 18th - Sunday 21st February 2021; at St Peter's Anglican Church Ohita.
+Registeration is #500.
+Make it a blessing and encourage others to attend. God Bless You.
+}
+
 
 {
 type~Announcement $
